@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at [Upwork](https://www.Outfitted.me](https://www.upwork.com/freelancers/~01dd32e60eb083d581)
+- 🔭 I’m currently working at [Upwork](https://www.upwork.com/freelancers/~01dd32e60eb083d581)
 
 - 🌱 I’m currently learning **Angular, Nest.js, Problem solving techniques**
 
