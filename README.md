@@ -103,21 +103,24 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-## Connect with me on 
+<h2 align="center"> 📫 Connect with me</h2>
 
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/hussein-samy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="https://t.me/Hussein_Samy02">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:hussein.samy02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p align="center">
+  Looking for building visually stunning websites with meticulous precision? Explore my <a href="https://www.frontendmentor.io/profile/HusseinSamy"><i>frontend mentor profile</i></a> to witness how I bring aesthetic excellence to websites. If design accuracy does matter for you, just hit me out..
 
+</p>
+
+<p align="center">
+Let's turn your ideas into reality!
+</p>
+<br />
+
+<div align = "center">
+    
+[![Linkedin: Hussein Samy](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hussein-samy)](https://www.linkedin.com/in/hussein-samy)&nbsp;
+[![Gmail: Hussein Samy](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hussein.samy02@gmail.com)](mailto:hussein.samy02@gmail.com)&nbsp;
+[![Telegram: Hussein Samy](https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white&link=https://www.t.me/husseinsamy02)](https://www.t.me/husseinsamy02)&nbsp;
+<br>
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/HusseinSamy)](https://www.frontendmentor.io/profile/HusseinSamy)
 
 </div>
