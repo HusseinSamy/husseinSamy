@@ -104,22 +104,29 @@
 </div>
 
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies </h2>
+<div align="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=husseinsamy&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
+</div>
+
+<h2 align="center"> ✍️ Random Dev Quote</h2>
+<br>
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+</div>
 
 <br>
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 <h2 align="center"> 📫 Connect with me</h2>
 
-<p align="center">
+<p align="center" margin="40px">
   Looking for building visually stunning websites with meticulous precision? Explore my <a href="https://www.frontendmentor.io/profile/HusseinSamy"><i>frontend mentor profile</i></a> to witness how I bring aesthetic excellence to websites. If design accuracy does matter for you, just hit me out..
 
 </p>
 
-<div align = "center">
+<div align="center">
     
 [![Linkedin: Hussein Samy](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hussein-samy)](https://www.linkedin.com/in/hussein-samy)&nbsp;
 [![Gmail: Hussein Samy](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hussein.samy02@gmail.com)](mailto:hussein.samy02@gmail.com)&nbsp;
