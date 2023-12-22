@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hussein</h1>
-<h3 align="center">A self taught frontend developer from Egypt.</h3>
-
+![home banner](https://github.com/HusseinSamy/husseinSamy/assets/82336571/3883b429-ef24-47dd-9266-f64894c1254b)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husseinsamy&label=Profile%20views&color=0e75b6&style=flat" alt="husseinsamy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husseinsamy" alt="husseinsamy" /></a> </p>
