@@ -22,8 +22,8 @@
 
 <div align="start">
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=husseinsamy&theme=swift&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=husseinsamy&theme=swift&hide_border=false&include_all_commits=true&count_private=true)
+<img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=husseinsamy&theme=swift&hide_border=false"/>
+<img align=right width="450" src="https://github-readme-stats.vercel.app/api?username=husseinsamy&theme=swift&hide_border=false&include_all_commits=true&count_private=true"/>
 
 </div>
 
@@ -104,16 +104,20 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ## Connect with me on 
-<a href="https://www.linkedin.com/in/hussein-samy/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
-<a href="https://t.me/Hussein_Samy02">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/hussein-samy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://t.me/Hussein_Samy02">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:hussein.samy02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:hussein.samy02@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
-
+</div>
