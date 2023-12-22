@@ -1,9 +1,6 @@
 ![home banner](https://github.com/HusseinSamy/husseinSamy/assets/82336571/3883b429-ef24-47dd-9266-f64894c1254b)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=husseinsamy&label=Profile%20views&color=0e75b6&style=flat" alt="husseinsamy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husseinsamy" alt="husseinsamy" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=husseinsamy&theme=dracula&hide_border=false"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husseinsamy&hide=sass,php&theme=dracula&show_icons=true&hide_border=false&layout=compact"> 
 
 - 🔭 I’m currently working at [Upwork](https://www.upwork.com/freelancers/~01dd32e60eb083d581)
 
