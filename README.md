@@ -57,6 +57,7 @@
 
 ## 🛠 Languages and Tools:
 <div>
+  <br>
   <details open>
   <summary><b>🖼 Frontend technologies</b></summary>
   <br>
@@ -73,6 +74,8 @@
   
   </details>
 
+<br>
+
   <details open>
   <summary><b>🚀 Deployment</b></summary>
   <br>
@@ -82,6 +85,7 @@
   
   </details>
 
+<br>
 
   <details open>
   <summary><b>🤖 Backend</b></summary>
@@ -94,11 +98,16 @@
   
   
   </details>  
+  
+  <br>
+
 </div>
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=husseinsamy&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
+
+<br>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
