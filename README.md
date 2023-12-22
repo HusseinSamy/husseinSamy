@@ -22,8 +22,8 @@
 
 <div align="start">
   
-<img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=husseinsamy&theme=swift&hide_border=false"/>
-<img align=right width="350" src="https://github-readme-stats.vercel.app/api?username=husseinsamy&theme=swift&hide_border=false&include_all_commits=true&count_private=true"/>
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=husseinsamy&theme=swift&hide_border=false"/>
+<img align=right width="400" src="https://github-readme-stats.vercel.app/api?username=husseinsamy&theme=swift&hide_border=false&include_all_commits=true&count_private=true"/>
 
 </div>
 
