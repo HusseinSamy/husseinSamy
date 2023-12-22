@@ -110,11 +110,6 @@
 
 </p>
 
-<p align="center">
-Let's turn your ideas into reality!
-</p>
-<br />
-
 <div align = "center">
     
 [![Linkedin: Hussein Samy](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hussein-samy)](https://www.linkedin.com/in/hussein-samy)&nbsp;
