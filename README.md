@@ -114,7 +114,7 @@
     
 [![Linkedin: Hussein Samy](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hussein-samy)](https://www.linkedin.com/in/hussein-samy)&nbsp;
 [![Gmail: Hussein Samy](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hussein.samy02@gmail.com)](mailto:hussein.samy02@gmail.com)&nbsp;
-[![Telegram: Hussein Samy](https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white&link=https://www.t.me/husseinsamy02)](https://www.t.me/husseinsamy02)&nbsp;
+[![Telegram: Hussein Samy](https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white&link=https://www.t.me/hussein_samy02)](https://www.t.me/hussein_samy02)&nbsp;
 <br>
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/HusseinSamy)](https://www.frontendmentor.io/profile/HusseinSamy)
 
