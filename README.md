@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=husseinsamy&icon=6&color=0)](https://visitcount.itsvg.in)
+ [![](https://visitcount.itsvg.in/api?id=husseinsamy&icon=6&color=0)](https://visitcount.itsvg.in)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hussein-samy)
 </div>
 
@@ -57,7 +57,6 @@
 
 ## 🛠 Languages and Tools:
 <div>
-  <br>
   <details open>
   <summary><b>🖼 Frontend technologies</b></summary>
   <br>
