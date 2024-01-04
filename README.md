@@ -42,9 +42,9 @@
   
   - 🌱 I’m currently learning **_Design patterns, Refactoring existing code, How to build a frontend framework_**
 
-  - 🤝 I'm currently helping people on **_Stackoverflow_** and **_frontend mentor_**
+  - 💬 I'm currently helping people on **_Stackoverflow_** and **_frontend mentor_**
 
-  - 📫 How to reach me **hussein.samy02@gmail.com**
+  - 📚 I'm currently reading: [Build a Frontend Web Framework](https://www.manning.com/books/build-a-frontend-web-framework-from-scratch)
   </div>
 
 </div>
