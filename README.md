@@ -38,7 +38,7 @@
 
   <div width="50%">
     
-  - 💼 I’m currently working at [Upwork](https://www.upwork.com/freelancers/~01dd32e60eb083d581) & [Ezone](https://www.ezone.ly) & [Tifos](https://www.tifos.net)
+  - 💼 I’m currently working at [Ezone](https://www.ezone.ly).
   
   - 🌱 I’m currently learning **_Design patterns, Refactoring existing code, How to build a frontend framework_**
 
