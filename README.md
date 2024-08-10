@@ -10,7 +10,7 @@
 
 <div align="center">
   
-<i align="center">🧑🏽‍💻 An experienced self-taught software developer with 1+ years of professional experience and an unwavering enthusiasm for topics that answers the question of "how does it work?" and unraveling the complexities of everything I build or engage with. 📐 My engineering mindset propels me to explore the depths of the software field, driven by a fervent passion for acquiring in-depth knowledge and mastering the intricacies of my job.</i>
+<i align="center">🧑🏽‍💻 An experienced self-taught software developer with 2+ years of professional experience and an unwavering enthusiasm for topics that answers the question of "how does it work?" and unraveling the complexities of everything I build or engage with. 📐 My engineering mindset propels me to explore the depths of the software field, driven by a fervent passion for acquiring in-depth knowledge and mastering the intricacies of my job.</i>
 </div>
 
 ##
