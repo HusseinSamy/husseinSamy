@@ -103,20 +103,6 @@
 </div>
 
 
-<h2 align="center">🏆 GitHub Trophies </h2>
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=husseinsamy&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
-</div>
-
-<h2 align="center"> ✍️ Random Dev Quote</h2>
-<br>
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-</div>
-
-
 <h2 align="center"> 📫 Connect with me</h2>
 
 <p align="center" margin="40px">
