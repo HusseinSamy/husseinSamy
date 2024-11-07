@@ -106,7 +106,7 @@
 <h2 align="center"> 📫 Connect with me</h2>
 
 <p align="center" margin="40px">
-  Looking for building visually stunning websites with meticulous precision? Explore my <a href="https://www.frontendmentor.io/profile/HusseinSamy"><i>frontend mentor profile</i></a> to witness how I bring aesthetic excellence to websites. If design accuracy does matter for you, just hit me out..
+  Looking for building visually stunning websites with meticulous precision? Explore my <a href="https://www.frontendmentor.io/profile/HusseinSamy"><i>frontend mentor profile</i></a> to witness how I bring aesthetic excellence to websites. If design accuracy does matter for you, just hit me out.
 
 </p>
 
